@@ -28,8 +28,9 @@ _in progress_
 + Ruby
 + Ruby on Rails
 + Spoonacular API
++ HTTParty
 
-###Team Members:
+### Team Members:
 + Beth Witten // https://github.com/brwitten
 + Austin Olsen // https://github.com/austinolsen
 + Levi Perry // https://github.com/lperry34
